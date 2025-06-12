@@ -19,8 +19,8 @@
 
 >Make your GitHub profile stand out with these popular readme enhancements.
 
-| Repository&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
+| Repository | Description |
+|------------|-------------|
 | [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Collection of awesome GitHub profile README examples |
 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Dynamically generated stats for your GitHub profile |
 | [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | SVG typing animation for your README |
@@ -33,8 +33,8 @@
 
 >Essential tools and libraries to speed up frontend development.
 
-| Repository&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
+| Repository | Description |
+|------------|-------------|
 | [vite](https://github.com/vitejs/vite) | Lightning-fast development build tool |
 | [prettier](https://github.com/prettier/prettier) | Opinionated code formatter for consistent styling |
 | [eslint](https://github.com/eslint/eslint) | Linting utility to find and fix problems in JavaScript code |
@@ -47,8 +47,8 @@
 
 >Libraries and plugins for building powerful React applications.
 
-| Repository&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
+| Repository | Description |
+|------------|-------------|
 | [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) | Syntax highlighting component using highlight.js or Prism |
 | [react-leaflet](https://github.com/PaulLeCam/react-leaflet) | React components for Leaflet maps |
 | [react-icons](https://github.com/react-icons/react-icons) | Popular icon packs as React components |
@@ -63,8 +63,8 @@
 
 >Plugins that extend the functionality of Vite.
 
-| Repository&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
+| Repository | Description |
+|------------|-------------|
 | [vite-plugin-pages-sitemap](https://github.com/hiro-sun/vite-plugin-pages-sitemap) | Sitemap generator for Vite projects using `vite-plugin-pages` |
 | [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) | Zero-config PWA plugin for Vite |
 | [vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) | Inspect the intermediate state of Vite plugins |
@@ -77,8 +77,8 @@
 
 >Tailwind CSS enhancements to extend design and typography.
 
-| Repository&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
+| Repository | Description |
+|------------|-------------|
 | [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) | Beautiful typographic defaults for Tailwind CSS |
 | [tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | Better base styles for form elements with Tailwind |
 | [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) | Utility classes for animations in Tailwind CSS |
@@ -91,8 +91,8 @@
 
 >Tools for compressing and optimizing images programmatically.
 
-| Repository&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
+| Repository | Description |
+|------------|-------------|
 | [imagemin](https://github.com/imagemin/imagemin) | Minify images seamlessly using multiple plugins |
 | [squoosh](https://github.com/GoogleChromeLabs/squoosh) | Image compression GUI by Google Chrome Labs |
 | [sharp](https://github.com/lovell/sharp) | High performance Node.js image processing library |
@@ -105,8 +105,8 @@
 
 >Resources for adding rich icons, avatars, and skill visuals to projects or profiles.
 
-| Repository&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
+| Repository | Description |
+|------------|-------------|
 | [skill-icons](https://github.com/tandpfun/skill-icons) | Beautiful developer skill icons for use in portfolios and READMEs |
 | [simple-icons](https://github.com/simple-icons/simple-icons) | Free SVG icons for popular brands |
 | [heroicons](https://github.com/tailwindlabs/heroicons) | Beautiful hand-crafted SVG icons by Tailwind Labs |

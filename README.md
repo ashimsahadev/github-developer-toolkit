@@ -2,6 +2,8 @@
 
 >A curated collection of open-source tools, libraries, and plugins from GitHub — for streamlining modern development workflows.
 
+![Repository Banner](repobanner.png)
+
 #### Want to contribute? Please read the [contribution guidelines](CONTRIBUTING.md) before submitting new resources.
 
 ## Table of Contents
